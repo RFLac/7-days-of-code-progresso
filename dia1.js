@@ -6,8 +6,8 @@ let numeroDez = 10
 let stringDez = '10'
 
 // Usei um único operador = para atribuir valores às variáveis acima
-// Usei dois operadores == para comparar o valor das 
-// Usei três = para comparar o valor. Este é mais usualmente usado em códigos de JavaScript ao invés 
+// Usei dois operadores == para comparar o valor dos dados. 
+// Usei três = para comparar o valor e o tipo de dado. Este é mais usualmente usado em códigos de JavaScript ao invés de == porque o critério de comparação é mais estrito.
 
 if (numeroUm == stringUm) {
   console.log('As variáveis numeroUm e stringUm tem o mesmo valor, mas tipos diferentes')
