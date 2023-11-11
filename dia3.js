@@ -2,7 +2,7 @@
 // Se front-end: React ou Vue?
 // Se back-end: C# ou Java?
 // Especializar na área escolhida ou estudar para se tornar fullstack?
-// Perguntar sobre quais tecnologias o usuário quer conhecer
+// Perguntar quais tecnologias o usuário quer conhecer
 
 const ladoDev = ['Front-End', 'Back-End'];
 let ladoDevEscolha = null;
